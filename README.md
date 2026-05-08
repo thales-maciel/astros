@@ -115,4 +115,6 @@ Monthly summary files in `data/months/` are kept forever.
 
 ## Notes On Licensing
 
-This project depends on Swiss Ephemeris through `pyswisseph`. Check the Swiss Ephemeris and `pyswisseph` licensing terms before commercial use or redistribution.
+This project is licensed under the GNU Affero General Public License v3.0. See `LICENSE`.
+
+This license choice is intentional because the project depends on Swiss Ephemeris through `pyswisseph`. Swiss Ephemeris uses a dual licensing model: AGPL or a paid Swiss Ephemeris Professional License. Check the Swiss Ephemeris and `pyswisseph` licensing terms before commercial, proprietary, SaaS, or redistributed use.
