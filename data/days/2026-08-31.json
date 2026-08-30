@@ -1,0 +1,4252 @@
+{
+  "date": "2026-08-31",
+  "timezone": "UTC",
+  "generated_at": "2026-08-30T11:56:45Z",
+  "daily": {
+    "headline": "Waning Gibbous with the Moon in Aries",
+    "summary": "The Moon spends 24 hours in Aries, setting the day's dominant emotional tone. The tightest major aspect is Jupiter trine Saturn near 22:00 UTC with a 0.00 degree orb.",
+    "highlights": [
+      "The Moon spends 24 hours in Aries, setting the day's dominant emotional tone.",
+      "The tightest major aspect is Jupiter trine Saturn near 22:00 UTC with a 0.00 degree orb."
+    ]
+  },
+  "hours": [
+    {
+      "hour": 0,
+      "datetime": "2026-08-31T00:00:00Z",
+      "headline": "Neptune sextiles Pluto",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort. Jupiter trines Saturn, creating ease, flow, and natural support between their themes.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 157.6264,
+          "sign": "Virgo",
+          "degree": 7.6264,
+          "retrograde": false,
+          "speed": 0.96661
+        },
+        "moon": {
+          "longitude": 11.8775,
+          "sign": "Aries",
+          "degree": 11.8775,
+          "retrograde": false,
+          "speed": 13.44016
+        },
+        "mercury": {
+          "longitude": 160.808,
+          "sign": "Virgo",
+          "degree": 10.808,
+          "retrograde": false,
+          "speed": 1.90303
+        },
+        "venus": {
+          "longitude": 202.3675,
+          "sign": "Libra",
+          "degree": 22.3675,
+          "retrograde": false,
+          "speed": 0.81048
+        },
+        "mars": {
+          "longitude": 102.7586,
+          "sign": "Cancer",
+          "degree": 12.7586,
+          "retrograde": false,
+          "speed": 0.6357
+        },
+        "jupiter": {
+          "longitude": 133.4893,
+          "sign": "Leo",
+          "degree": 13.4893,
+          "retrograde": false,
+          "speed": 0.2107
+        },
+        "saturn": {
+          "longitude": 13.7363,
+          "sign": "Aries",
+          "degree": 13.7363,
+          "retrograde": true,
+          "speed": -0.05502
+        },
+        "uranus": {
+          "longitude": 65.6471,
+          "sign": "Gemini",
+          "degree": 5.6471,
+          "retrograde": false,
+          "speed": 0.00915
+        },
+        "neptune": {
+          "longitude": 3.6903,
+          "sign": "Aries",
+          "degree": 3.6903,
+          "retrograde": true,
+          "speed": -0.02418
+        },
+        "pluto": {
+          "longitude": 303.5301,
+          "sign": "Aquarius",
+          "degree": 3.5301,
+          "retrograde": true,
+          "speed": -0.01849
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.25
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.88
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.98
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 1.61
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 1.86
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.95
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.96
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 1.98
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.12
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.18
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 5.13
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.16
+        }
+      ]
+    },
+    {
+      "hour": 1,
+      "datetime": "2026-08-31T01:00:00Z",
+      "headline": "Neptune sextiles Pluto",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort. Jupiter trines Saturn, creating ease, flow, and natural support between their themes.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 157.6667,
+          "sign": "Virgo",
+          "degree": 7.6667,
+          "retrograde": false,
+          "speed": 0.96663
+        },
+        "moon": {
+          "longitude": 12.4377,
+          "sign": "Aries",
+          "degree": 12.4377,
+          "retrograde": false,
+          "speed": 13.4494
+        },
+        "mercury": {
+          "longitude": 160.8873,
+          "sign": "Virgo",
+          "degree": 10.8873,
+          "retrograde": false,
+          "speed": 1.90223
+        },
+        "venus": {
+          "longitude": 202.4013,
+          "sign": "Libra",
+          "degree": 22.4013,
+          "retrograde": false,
+          "speed": 0.80997
+        },
+        "mars": {
+          "longitude": 102.7851,
+          "sign": "Cancer",
+          "degree": 12.7851,
+          "retrograde": false,
+          "speed": 0.63564
+        },
+        "jupiter": {
+          "longitude": 133.4981,
+          "sign": "Leo",
+          "degree": 13.4981,
+          "retrograde": false,
+          "speed": 0.21067
+        },
+        "saturn": {
+          "longitude": 13.734,
+          "sign": "Aries",
+          "degree": 13.734,
+          "retrograde": true,
+          "speed": -0.05508
+        },
+        "uranus": {
+          "longitude": 65.6475,
+          "sign": "Gemini",
+          "degree": 5.6475,
+          "retrograde": false,
+          "speed": 0.00912
+        },
+        "neptune": {
+          "longitude": 3.6893,
+          "sign": "Aries",
+          "degree": 3.6893,
+          "retrograde": true,
+          "speed": -0.02419
+        },
+        "pluto": {
+          "longitude": 303.5293,
+          "sign": "Aquarius",
+          "degree": 3.5293,
+          "retrograde": true,
+          "speed": -0.01848
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.24
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.35
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.95
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 1.06
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 1.3
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.9
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.96
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.02
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.12
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.22
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 5.12
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.24
+        }
+      ]
+    },
+    {
+      "hour": 2,
+      "datetime": "2026-08-31T02:00:00Z",
+      "headline": "Neptune sextiles Pluto",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort. Moon squares Mars, adding friction that asks for action, adjustment, or honesty.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 157.7069,
+          "sign": "Virgo",
+          "degree": 7.7069,
+          "retrograde": false,
+          "speed": 0.96666
+        },
+        "moon": {
+          "longitude": 12.9982,
+          "sign": "Aries",
+          "degree": 12.9982,
+          "retrograde": false,
+          "speed": 13.45861
+        },
+        "mercury": {
+          "longitude": 160.9665,
+          "sign": "Virgo",
+          "degree": 10.9665,
+          "retrograde": false,
+          "speed": 1.90143
+        },
+        "venus": {
+          "longitude": 202.435,
+          "sign": "Libra",
+          "degree": 22.435,
+          "retrograde": false,
+          "speed": 0.80946
+        },
+        "mars": {
+          "longitude": 102.8116,
+          "sign": "Cancer",
+          "degree": 12.8116,
+          "retrograde": false,
+          "speed": 0.63558
+        },
+        "jupiter": {
+          "longitude": 133.5069,
+          "sign": "Leo",
+          "degree": 13.5069,
+          "retrograde": false,
+          "speed": 0.21064
+        },
+        "saturn": {
+          "longitude": 13.7317,
+          "sign": "Aries",
+          "degree": 13.7317,
+          "retrograde": true,
+          "speed": -0.05513
+        },
+        "uranus": {
+          "longitude": 65.6479,
+          "sign": "Gemini",
+          "degree": 5.6479,
+          "retrograde": false,
+          "speed": 0.00909
+        },
+        "neptune": {
+          "longitude": 3.6883,
+          "sign": "Aries",
+          "degree": 3.6883,
+          "retrograde": true,
+          "speed": -0.0242
+        },
+        "pluto": {
+          "longitude": 303.5286,
+          "sign": "Aquarius",
+          "degree": 3.5286,
+          "retrograde": true,
+          "speed": -0.01846
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.19
+        },
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.22
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.51
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 0.73
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.92
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.85
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.96
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.06
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.12
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.26
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 5.1
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.32
+        }
+      ]
+    },
+    {
+      "hour": 3,
+      "datetime": "2026-08-31T03:00:00Z",
+      "headline": "Moon trines Jupiter",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Moon trines Jupiter, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 157.7472,
+          "sign": "Virgo",
+          "degree": 7.7472,
+          "retrograde": false,
+          "speed": 0.96668
+        },
+        "moon": {
+          "longitude": 13.5592,
+          "sign": "Aries",
+          "degree": 13.5592,
+          "retrograde": false,
+          "speed": 13.46779
+        },
+        "mercury": {
+          "longitude": 161.0457,
+          "sign": "Virgo",
+          "degree": 11.0457,
+          "retrograde": false,
+          "speed": 1.90063
+        },
+        "venus": {
+          "longitude": 202.4688,
+          "sign": "Libra",
+          "degree": 22.4688,
+          "retrograde": false,
+          "speed": 0.80894
+        },
+        "mars": {
+          "longitude": 102.8381,
+          "sign": "Cancer",
+          "degree": 12.8381,
+          "retrograde": false,
+          "speed": 0.63552
+        },
+        "jupiter": {
+          "longitude": 133.5157,
+          "sign": "Leo",
+          "degree": 13.5157,
+          "retrograde": false,
+          "speed": 0.21062
+        },
+        "saturn": {
+          "longitude": 13.7294,
+          "sign": "Aries",
+          "degree": 13.7294,
+          "retrograde": true,
+          "speed": -0.05518
+        },
+        "uranus": {
+          "longitude": 65.6482,
+          "sign": "Gemini",
+          "degree": 5.6482,
+          "retrograde": false,
+          "speed": 0.00905
+        },
+        "neptune": {
+          "longitude": 3.6872,
+          "sign": "Aries",
+          "degree": 3.6872,
+          "retrograde": true,
+          "speed": -0.02421
+        },
+        "pluto": {
+          "longitude": 303.5278,
+          "sign": "Aquarius",
+          "degree": 3.5278,
+          "retrograde": true,
+          "speed": -0.01845
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.04
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 0.17
+        },
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.21
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.72
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.89
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.79
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.96
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.1
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.12
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.3
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 5.09
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.4
+        }
+      ]
+    },
+    {
+      "hour": 4,
+      "datetime": "2026-08-31T04:00:00Z",
+      "headline": "Neptune sextiles Pluto",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort. Jupiter trines Saturn, creating ease, flow, and natural support between their themes.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 157.7875,
+          "sign": "Virgo",
+          "degree": 7.7875,
+          "retrograde": false,
+          "speed": 0.9667
+        },
+        "moon": {
+          "longitude": 14.1206,
+          "sign": "Aries",
+          "degree": 14.1206,
+          "retrograde": false,
+          "speed": 13.47694
+        },
+        "mercury": {
+          "longitude": 161.1249,
+          "sign": "Virgo",
+          "degree": 11.1249,
+          "retrograde": false,
+          "speed": 1.89983
+        },
+        "venus": {
+          "longitude": 202.5024,
+          "sign": "Libra",
+          "degree": 22.5024,
+          "retrograde": false,
+          "speed": 0.80843
+        },
+        "mars": {
+          "longitude": 102.8645,
+          "sign": "Cancer",
+          "degree": 12.8645,
+          "retrograde": false,
+          "speed": 0.63547
+        },
+        "jupiter": {
+          "longitude": 133.5244,
+          "sign": "Leo",
+          "degree": 13.5244,
+          "retrograde": false,
+          "speed": 0.21059
+        },
+        "saturn": {
+          "longitude": 13.7271,
+          "sign": "Aries",
+          "degree": 13.7271,
+          "retrograde": true,
+          "speed": -0.05523
+        },
+        "uranus": {
+          "longitude": 65.6486,
+          "sign": "Gemini",
+          "degree": 5.6486,
+          "retrograde": false,
+          "speed": 0.00902
+        },
+        "neptune": {
+          "longitude": 3.6862,
+          "sign": "Aries",
+          "degree": 3.6862,
+          "retrograde": true,
+          "speed": -0.02422
+        },
+        "pluto": {
+          "longitude": 303.527,
+          "sign": "Aquarius",
+          "degree": 3.527,
+          "retrograde": true,
+          "speed": -0.01844
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.2
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 0.39
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.6
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.86
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 1.26
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.74
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.96
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.12
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.14
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.34
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 5.08
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.48
+        }
+      ]
+    },
+    {
+      "hour": 5,
+      "datetime": "2026-08-31T05:00:00Z",
+      "headline": "Neptune sextiles Pluto",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort. Jupiter trines Saturn, creating ease, flow, and natural support between their themes.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 157.8278,
+          "sign": "Virgo",
+          "degree": 7.8278,
+          "retrograde": false,
+          "speed": 0.96672
+        },
+        "moon": {
+          "longitude": 14.6823,
+          "sign": "Aries",
+          "degree": 14.6823,
+          "retrograde": false,
+          "speed": 13.48606
+        },
+        "mercury": {
+          "longitude": 161.204,
+          "sign": "Virgo",
+          "degree": 11.204,
+          "retrograde": false,
+          "speed": 1.89902
+        },
+        "venus": {
+          "longitude": 202.5361,
+          "sign": "Libra",
+          "degree": 22.5361,
+          "retrograde": false,
+          "speed": 0.80791
+        },
+        "mars": {
+          "longitude": 102.891,
+          "sign": "Cancer",
+          "degree": 12.891,
+          "retrograde": false,
+          "speed": 0.63541
+        },
+        "jupiter": {
+          "longitude": 133.5332,
+          "sign": "Leo",
+          "degree": 13.5332,
+          "retrograde": false,
+          "speed": 0.21056
+        },
+        "saturn": {
+          "longitude": 13.7248,
+          "sign": "Aries",
+          "degree": 13.7248,
+          "retrograde": true,
+          "speed": -0.05529
+        },
+        "uranus": {
+          "longitude": 65.649,
+          "sign": "Gemini",
+          "degree": 5.649,
+          "retrograde": false,
+          "speed": 0.00898
+        },
+        "neptune": {
+          "longitude": 3.6852,
+          "sign": "Aries",
+          "degree": 3.6852,
+          "retrograde": true,
+          "speed": -0.02423
+        },
+        "pluto": {
+          "longitude": 303.5262,
+          "sign": "Aquarius",
+          "degree": 3.5262,
+          "retrograde": true,
+          "speed": -0.01843
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.19
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.83
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 0.96
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 1.15
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.69
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 1.79
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.96
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.12
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.18
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.38
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 5.06
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.56
+        }
+      ]
+    },
+    {
+      "hour": 6,
+      "datetime": "2026-08-31T06:00:00Z",
+      "headline": "Neptune sextiles Pluto",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort. Jupiter trines Saturn, creating ease, flow, and natural support between their themes.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 157.8681,
+          "sign": "Virgo",
+          "degree": 7.8681,
+          "retrograde": false,
+          "speed": 0.96674
+        },
+        "moon": {
+          "longitude": 15.2444,
+          "sign": "Aries",
+          "degree": 15.2444,
+          "retrograde": false,
+          "speed": 13.49514
+        },
+        "mercury": {
+          "longitude": 161.2832,
+          "sign": "Virgo",
+          "degree": 11.2832,
+          "retrograde": false,
+          "speed": 1.89822
+        },
+        "venus": {
+          "longitude": 202.5698,
+          "sign": "Libra",
+          "degree": 22.5698,
+          "retrograde": false,
+          "speed": 0.8074
+        },
+        "mars": {
+          "longitude": 102.9175,
+          "sign": "Cancer",
+          "degree": 12.9175,
+          "retrograde": false,
+          "speed": 0.63535
+        },
+        "jupiter": {
+          "longitude": 133.542,
+          "sign": "Leo",
+          "degree": 13.542,
+          "retrograde": false,
+          "speed": 0.21054
+        },
+        "saturn": {
+          "longitude": 13.7225,
+          "sign": "Aries",
+          "degree": 13.7225,
+          "retrograde": true,
+          "speed": -0.05534
+        },
+        "uranus": {
+          "longitude": 65.6494,
+          "sign": "Gemini",
+          "degree": 5.6494,
+          "retrograde": false,
+          "speed": 0.00895
+        },
+        "neptune": {
+          "longitude": 3.6842,
+          "sign": "Aries",
+          "degree": 3.6842,
+          "retrograde": true,
+          "speed": -0.02424
+        },
+        "pluto": {
+          "longitude": 303.5255,
+          "sign": "Aquarius",
+          "degree": 3.5255,
+          "retrograde": true,
+          "speed": -0.01842
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.18
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.8
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 1.52
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.63
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 1.7
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.97
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.12
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.22
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.33
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.42
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 5.05
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.63
+        }
+      ]
+    },
+    {
+      "hour": 7,
+      "datetime": "2026-08-31T07:00:00Z",
+      "headline": "Neptune sextiles Pluto",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort. Jupiter trines Saturn, creating ease, flow, and natural support between their themes.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 157.9083,
+          "sign": "Virgo",
+          "degree": 7.9083,
+          "retrograde": false,
+          "speed": 0.96676
+        },
+        "moon": {
+          "longitude": 15.8069,
+          "sign": "Aries",
+          "degree": 15.8069,
+          "retrograde": false,
+          "speed": 13.50419
+        },
+        "mercury": {
+          "longitude": 161.3622,
+          "sign": "Virgo",
+          "degree": 11.3622,
+          "retrograde": false,
+          "speed": 1.89741
+        },
+        "venus": {
+          "longitude": 202.6034,
+          "sign": "Libra",
+          "degree": 22.6034,
+          "retrograde": false,
+          "speed": 0.80688
+        },
+        "mars": {
+          "longitude": 102.944,
+          "sign": "Cancer",
+          "degree": 12.944,
+          "retrograde": false,
+          "speed": 0.63529
+        },
+        "jupiter": {
+          "longitude": 133.5508,
+          "sign": "Leo",
+          "degree": 13.5508,
+          "retrograde": false,
+          "speed": 0.21051
+        },
+        "saturn": {
+          "longitude": 13.7202,
+          "sign": "Aries",
+          "degree": 13.7202,
+          "retrograde": true,
+          "speed": -0.05539
+        },
+        "uranus": {
+          "longitude": 65.6497,
+          "sign": "Gemini",
+          "degree": 5.6497,
+          "retrograde": false,
+          "speed": 0.00891
+        },
+        "neptune": {
+          "longitude": 3.6832,
+          "sign": "Aries",
+          "degree": 3.6832,
+          "retrograde": true,
+          "speed": -0.02425
+        },
+        "pluto": {
+          "longitude": 303.5247,
+          "sign": "Aquarius",
+          "degree": 3.5247,
+          "retrograde": true,
+          "speed": -0.0184
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.17
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.78
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.58
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.97
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 2.09
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.12
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.26
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.26
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.86
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.45
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 5.04
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.71
+        }
+      ]
+    },
+    {
+      "hour": 8,
+      "datetime": "2026-08-31T08:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 157.9486,
+          "sign": "Virgo",
+          "degree": 7.9486,
+          "retrograde": false,
+          "speed": 0.96678
+        },
+        "moon": {
+          "longitude": 16.3698,
+          "sign": "Aries",
+          "degree": 16.3698,
+          "retrograde": false,
+          "speed": 13.5132
+        },
+        "mercury": {
+          "longitude": 161.4413,
+          "sign": "Virgo",
+          "degree": 11.4413,
+          "retrograde": false,
+          "speed": 1.8966
+        },
+        "venus": {
+          "longitude": 202.637,
+          "sign": "Libra",
+          "degree": 22.637,
+          "retrograde": false,
+          "speed": 0.80636
+        },
+        "mars": {
+          "longitude": 102.9704,
+          "sign": "Cancer",
+          "degree": 12.9704,
+          "retrograde": false,
+          "speed": 0.63523
+        },
+        "jupiter": {
+          "longitude": 133.5595,
+          "sign": "Leo",
+          "degree": 13.5595,
+          "retrograde": false,
+          "speed": 0.21048
+        },
+        "saturn": {
+          "longitude": 13.7179,
+          "sign": "Aries",
+          "degree": 13.7179,
+          "retrograde": true,
+          "speed": -0.05544
+        },
+        "uranus": {
+          "longitude": 65.6501,
+          "sign": "Gemini",
+          "degree": 5.6501,
+          "retrograde": false,
+          "speed": 0.00888
+        },
+        "neptune": {
+          "longitude": 3.6822,
+          "sign": "Aries",
+          "degree": 3.6822,
+          "retrograde": true,
+          "speed": -0.02426
+        },
+        "pluto": {
+          "longitude": 303.5239,
+          "sign": "Aquarius",
+          "degree": 3.5239,
+          "retrograde": true,
+          "speed": -0.01839
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.75
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.53
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.97
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.13
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.3
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 2.65
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.81
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 3.4
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.49
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 5.02
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.79
+        }
+      ]
+    },
+    {
+      "hour": 9,
+      "datetime": "2026-08-31T09:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 157.9889,
+          "sign": "Virgo",
+          "degree": 7.9889,
+          "retrograde": false,
+          "speed": 0.9668
+        },
+        "moon": {
+          "longitude": 16.933,
+          "sign": "Aries",
+          "degree": 16.933,
+          "retrograde": false,
+          "speed": 13.52219
+        },
+        "mercury": {
+          "longitude": 161.5203,
+          "sign": "Virgo",
+          "degree": 11.5203,
+          "retrograde": false,
+          "speed": 1.8958
+        },
+        "venus": {
+          "longitude": 202.6706,
+          "sign": "Libra",
+          "degree": 22.6706,
+          "retrograde": false,
+          "speed": 0.80584
+        },
+        "mars": {
+          "longitude": 102.9969,
+          "sign": "Cancer",
+          "degree": 12.9969,
+          "retrograde": false,
+          "speed": 0.63517
+        },
+        "jupiter": {
+          "longitude": 133.5683,
+          "sign": "Leo",
+          "degree": 13.5683,
+          "retrograde": false,
+          "speed": 0.21045
+        },
+        "saturn": {
+          "longitude": 13.7156,
+          "sign": "Aries",
+          "degree": 13.7156,
+          "retrograde": true,
+          "speed": -0.05549
+        },
+        "uranus": {
+          "longitude": 65.6505,
+          "sign": "Gemini",
+          "degree": 5.6505,
+          "retrograde": false,
+          "speed": 0.00884
+        },
+        "neptune": {
+          "longitude": 3.6812,
+          "sign": "Aries",
+          "degree": 3.6812,
+          "retrograde": true,
+          "speed": -0.02427
+        },
+        "pluto": {
+          "longitude": 303.5232,
+          "sign": "Aquarius",
+          "degree": 3.5232,
+          "retrograde": true,
+          "speed": -0.01838
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.15
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.72
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.48
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.97
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.13
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.34
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.22
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 3.36
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.53
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 3.94
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 5.01
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 5.74
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.87
+        }
+      ]
+    },
+    {
+      "hour": 10,
+      "datetime": "2026-08-31T10:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.0292,
+          "sign": "Virgo",
+          "degree": 8.0292,
+          "retrograde": false,
+          "speed": 0.96682
+        },
+        "moon": {
+          "longitude": 17.4966,
+          "sign": "Aries",
+          "degree": 17.4966,
+          "retrograde": false,
+          "speed": 13.53113
+        },
+        "mercury": {
+          "longitude": 161.5993,
+          "sign": "Virgo",
+          "degree": 11.5993,
+          "retrograde": false,
+          "speed": 1.89499
+        },
+        "venus": {
+          "longitude": 202.7042,
+          "sign": "Libra",
+          "degree": 22.7042,
+          "retrograde": false,
+          "speed": 0.80532
+        },
+        "mars": {
+          "longitude": 103.0234,
+          "sign": "Cancer",
+          "degree": 13.0234,
+          "retrograde": false,
+          "speed": 0.63511
+        },
+        "jupiter": {
+          "longitude": 133.5771,
+          "sign": "Leo",
+          "degree": 13.5771,
+          "retrograde": false,
+          "speed": 0.21043
+        },
+        "saturn": {
+          "longitude": 13.7133,
+          "sign": "Aries",
+          "degree": 13.7133,
+          "retrograde": true,
+          "speed": -0.05555
+        },
+        "uranus": {
+          "longitude": 65.6508,
+          "sign": "Gemini",
+          "degree": 5.6508,
+          "retrograde": false,
+          "speed": 0.00881
+        },
+        "neptune": {
+          "longitude": 3.6802,
+          "sign": "Aries",
+          "degree": 3.6802,
+          "retrograde": true,
+          "speed": -0.02428
+        },
+        "pluto": {
+          "longitude": 303.5224,
+          "sign": "Aquarius",
+          "degree": 3.5224,
+          "retrograde": true,
+          "speed": -0.01837
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.14
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.69
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.42
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.97
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.13
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.38
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.57
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.78
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 3.92
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 4.47
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.99
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 5.21
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.95
+        }
+      ]
+    },
+    {
+      "hour": 11,
+      "datetime": "2026-08-31T11:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.0695,
+          "sign": "Virgo",
+          "degree": 8.0695,
+          "retrograde": false,
+          "speed": 0.96685
+        },
+        "moon": {
+          "longitude": 18.0606,
+          "sign": "Aries",
+          "degree": 18.0606,
+          "retrograde": false,
+          "speed": 13.54005
+        },
+        "mercury": {
+          "longitude": 161.6782,
+          "sign": "Virgo",
+          "degree": 11.6782,
+          "retrograde": false,
+          "speed": 1.89418
+        },
+        "venus": {
+          "longitude": 202.7377,
+          "sign": "Libra",
+          "degree": 22.7377,
+          "retrograde": false,
+          "speed": 0.80481
+        },
+        "mars": {
+          "longitude": 103.0498,
+          "sign": "Cancer",
+          "degree": 13.0498,
+          "retrograde": false,
+          "speed": 0.63505
+        },
+        "jupiter": {
+          "longitude": 133.5858,
+          "sign": "Leo",
+          "degree": 13.5858,
+          "retrograde": false,
+          "speed": 0.2104
+        },
+        "saturn": {
+          "longitude": 13.711,
+          "sign": "Aries",
+          "degree": 13.711,
+          "retrograde": true,
+          "speed": -0.0556
+        },
+        "uranus": {
+          "longitude": 65.6512,
+          "sign": "Gemini",
+          "degree": 5.6512,
+          "retrograde": false,
+          "speed": 0.00877
+        },
+        "neptune": {
+          "longitude": 3.6792,
+          "sign": "Aries",
+          "degree": 3.6792,
+          "retrograde": true,
+          "speed": -0.0243
+        },
+        "pluto": {
+          "longitude": 303.5217,
+          "sign": "Aquarius",
+          "degree": 3.5217,
+          "retrograde": true,
+          "speed": -0.01836
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.13
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.66
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.37
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.97
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.13
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.42
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.61
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 4.35
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 4.47
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 4.68
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.98
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.01
+        }
+      ]
+    },
+    {
+      "hour": 12,
+      "datetime": "2026-08-31T12:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.1098,
+          "sign": "Virgo",
+          "degree": 8.1098,
+          "retrograde": false,
+          "speed": 0.96687
+        },
+        "moon": {
+          "longitude": 18.625,
+          "sign": "Aries",
+          "degree": 18.625,
+          "retrograde": false,
+          "speed": 13.54893
+        },
+        "mercury": {
+          "longitude": 161.7571,
+          "sign": "Virgo",
+          "degree": 11.7571,
+          "retrograde": false,
+          "speed": 1.89337
+        },
+        "venus": {
+          "longitude": 202.7712,
+          "sign": "Libra",
+          "degree": 22.7712,
+          "retrograde": false,
+          "speed": 0.80428
+        },
+        "mars": {
+          "longitude": 103.0763,
+          "sign": "Cancer",
+          "degree": 13.0763,
+          "retrograde": false,
+          "speed": 0.63499
+        },
+        "jupiter": {
+          "longitude": 133.5946,
+          "sign": "Leo",
+          "degree": 13.5946,
+          "retrograde": false,
+          "speed": 0.21037
+        },
+        "saturn": {
+          "longitude": 13.7086,
+          "sign": "Aries",
+          "degree": 13.7086,
+          "retrograde": true,
+          "speed": -0.05565
+        },
+        "uranus": {
+          "longitude": 65.6516,
+          "sign": "Gemini",
+          "degree": 5.6516,
+          "retrograde": false,
+          "speed": 0.00874
+        },
+        "neptune": {
+          "longitude": 3.6782,
+          "sign": "Aries",
+          "degree": 3.6782,
+          "retrograde": true,
+          "speed": -0.02431
+        },
+        "pluto": {
+          "longitude": 303.5209,
+          "sign": "Aquarius",
+          "degree": 3.5209,
+          "retrograde": true,
+          "speed": -0.01834
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.11
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.63
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.32
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.97
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.13
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.46
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.65
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 4.15
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 4.92
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.97
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 5.03
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "mars",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 5.55
+        }
+      ]
+    },
+    {
+      "hour": 13,
+      "datetime": "2026-08-31T13:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.15,
+          "sign": "Virgo",
+          "degree": 8.15,
+          "retrograde": false,
+          "speed": 0.96689
+        },
+        "moon": {
+          "longitude": 19.1897,
+          "sign": "Aries",
+          "degree": 19.1897,
+          "retrograde": false,
+          "speed": 13.55777
+        },
+        "mercury": {
+          "longitude": 161.836,
+          "sign": "Virgo",
+          "degree": 11.836,
+          "retrograde": false,
+          "speed": 1.89256
+        },
+        "venus": {
+          "longitude": 202.8047,
+          "sign": "Libra",
+          "degree": 22.8047,
+          "retrograde": false,
+          "speed": 0.80376
+        },
+        "mars": {
+          "longitude": 103.1027,
+          "sign": "Cancer",
+          "degree": 13.1027,
+          "retrograde": false,
+          "speed": 0.63493
+        },
+        "jupiter": {
+          "longitude": 133.6034,
+          "sign": "Leo",
+          "degree": 13.6034,
+          "retrograde": false,
+          "speed": 0.21035
+        },
+        "saturn": {
+          "longitude": 13.7063,
+          "sign": "Aries",
+          "degree": 13.7063,
+          "retrograde": true,
+          "speed": -0.0557
+        },
+        "uranus": {
+          "longitude": 65.6519,
+          "sign": "Gemini",
+          "degree": 5.6519,
+          "retrograde": false,
+          "speed": 0.00871
+        },
+        "neptune": {
+          "longitude": 3.6771,
+          "sign": "Aries",
+          "degree": 3.6771,
+          "retrograde": true,
+          "speed": -0.02432
+        },
+        "pluto": {
+          "longitude": 303.5201,
+          "sign": "Aquarius",
+          "degree": 3.5201,
+          "retrograde": true,
+          "speed": -0.01833
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.1
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.6
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.27
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.97
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.13
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.5
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 3.62
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.69
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.95
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "saturn",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 5.48
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "jupiter",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 5.59
+        }
+      ]
+    },
+    {
+      "hour": 14,
+      "datetime": "2026-08-31T14:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.1903,
+          "sign": "Virgo",
+          "degree": 8.1903,
+          "retrograde": false,
+          "speed": 0.96691
+        },
+        "moon": {
+          "longitude": 19.7548,
+          "sign": "Aries",
+          "degree": 19.7548,
+          "retrograde": false,
+          "speed": 13.56658
+        },
+        "mercury": {
+          "longitude": 161.9148,
+          "sign": "Virgo",
+          "degree": 11.9148,
+          "retrograde": false,
+          "speed": 1.89174
+        },
+        "venus": {
+          "longitude": 202.8382,
+          "sign": "Libra",
+          "degree": 22.8382,
+          "retrograde": false,
+          "speed": 0.80324
+        },
+        "mars": {
+          "longitude": 103.1292,
+          "sign": "Cancer",
+          "degree": 13.1292,
+          "retrograde": false,
+          "speed": 0.63487
+        },
+        "jupiter": {
+          "longitude": 133.6121,
+          "sign": "Leo",
+          "degree": 13.6121,
+          "retrograde": false,
+          "speed": 0.21032
+        },
+        "saturn": {
+          "longitude": 13.704,
+          "sign": "Aries",
+          "degree": 13.704,
+          "retrograde": true,
+          "speed": -0.05575
+        },
+        "uranus": {
+          "longitude": 65.6523,
+          "sign": "Gemini",
+          "degree": 5.6523,
+          "retrograde": false,
+          "speed": 0.00867
+        },
+        "neptune": {
+          "longitude": 3.6761,
+          "sign": "Aries",
+          "degree": 3.6761,
+          "retrograde": true,
+          "speed": -0.02433
+        },
+        "pluto": {
+          "longitude": 303.5194,
+          "sign": "Aquarius",
+          "degree": 3.5194,
+          "retrograde": true,
+          "speed": -0.01832
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.09
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.57
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.21
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.98
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.13
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.54
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 3.08
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.72
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.94
+        }
+      ]
+    },
+    {
+      "hour": 15,
+      "datetime": "2026-08-31T15:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.2306,
+          "sign": "Virgo",
+          "degree": 8.2306,
+          "retrograde": false,
+          "speed": 0.96693
+        },
+        "moon": {
+          "longitude": 20.3202,
+          "sign": "Aries",
+          "degree": 20.3202,
+          "retrograde": false,
+          "speed": 13.57535
+        },
+        "mercury": {
+          "longitude": 161.9936,
+          "sign": "Virgo",
+          "degree": 11.9936,
+          "retrograde": false,
+          "speed": 1.89093
+        },
+        "venus": {
+          "longitude": 202.8717,
+          "sign": "Libra",
+          "degree": 22.8717,
+          "retrograde": false,
+          "speed": 0.80272
+        },
+        "mars": {
+          "longitude": 103.1556,
+          "sign": "Cancer",
+          "degree": 13.1556,
+          "retrograde": false,
+          "speed": 0.63482
+        },
+        "jupiter": {
+          "longitude": 133.6209,
+          "sign": "Leo",
+          "degree": 13.6209,
+          "retrograde": false,
+          "speed": 0.21029
+        },
+        "saturn": {
+          "longitude": 13.7017,
+          "sign": "Aries",
+          "degree": 13.7017,
+          "retrograde": true,
+          "speed": -0.0558
+        },
+        "uranus": {
+          "longitude": 65.6527,
+          "sign": "Gemini",
+          "degree": 5.6527,
+          "retrograde": false,
+          "speed": 0.00864
+        },
+        "neptune": {
+          "longitude": 3.6751,
+          "sign": "Aries",
+          "degree": 3.6751,
+          "retrograde": true,
+          "speed": -0.02434
+        },
+        "pluto": {
+          "longitude": 303.5186,
+          "sign": "Aquarius",
+          "degree": 3.5186,
+          "retrograde": true,
+          "speed": -0.01831
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.08
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.55
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.16
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.98
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.13
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 2.55
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.58
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.76
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.92
+        }
+      ]
+    },
+    {
+      "hour": 16,
+      "datetime": "2026-08-31T16:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.2709,
+          "sign": "Virgo",
+          "degree": 8.2709,
+          "retrograde": false,
+          "speed": 0.96695
+        },
+        "moon": {
+          "longitude": 20.8861,
+          "sign": "Aries",
+          "degree": 20.8861,
+          "retrograde": false,
+          "speed": 13.58409
+        },
+        "mercury": {
+          "longitude": 162.0724,
+          "sign": "Virgo",
+          "degree": 12.0724,
+          "retrograde": false,
+          "speed": 1.89012
+        },
+        "venus": {
+          "longitude": 202.9051,
+          "sign": "Libra",
+          "degree": 22.9051,
+          "retrograde": false,
+          "speed": 0.80219
+        },
+        "mars": {
+          "longitude": 103.1821,
+          "sign": "Cancer",
+          "degree": 13.1821,
+          "retrograde": false,
+          "speed": 0.63476
+        },
+        "jupiter": {
+          "longitude": 133.6296,
+          "sign": "Leo",
+          "degree": 13.6296,
+          "retrograde": false,
+          "speed": 0.21027
+        },
+        "saturn": {
+          "longitude": 13.6994,
+          "sign": "Aries",
+          "degree": 13.6994,
+          "retrograde": true,
+          "speed": -0.05586
+        },
+        "uranus": {
+          "longitude": 65.653,
+          "sign": "Gemini",
+          "degree": 5.653,
+          "retrograde": false,
+          "speed": 0.0086
+        },
+        "neptune": {
+          "longitude": 3.6741,
+          "sign": "Aries",
+          "degree": 3.6741,
+          "retrograde": true,
+          "speed": -0.02435
+        },
+        "pluto": {
+          "longitude": 303.5178,
+          "sign": "Aquarius",
+          "degree": 3.5178,
+          "retrograde": true,
+          "speed": -0.0183
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.07
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.52
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.11
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.98
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 2.02
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.14
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.62
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.8
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.91
+        }
+      ]
+    },
+    {
+      "hour": 17,
+      "datetime": "2026-08-31T17:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.3112,
+          "sign": "Virgo",
+          "degree": 8.3112,
+          "retrograde": false,
+          "speed": 0.96697
+        },
+        "moon": {
+          "longitude": 21.4522,
+          "sign": "Aries",
+          "degree": 21.4522,
+          "retrograde": false,
+          "speed": 13.59279
+        },
+        "mercury": {
+          "longitude": 162.1511,
+          "sign": "Virgo",
+          "degree": 12.1511,
+          "retrograde": false,
+          "speed": 1.8893
+        },
+        "venus": {
+          "longitude": 202.9385,
+          "sign": "Libra",
+          "degree": 22.9385,
+          "retrograde": false,
+          "speed": 0.80167
+        },
+        "mars": {
+          "longitude": 103.2085,
+          "sign": "Cancer",
+          "degree": 13.2085,
+          "retrograde": false,
+          "speed": 0.6347
+        },
+        "jupiter": {
+          "longitude": 133.6384,
+          "sign": "Leo",
+          "degree": 13.6384,
+          "retrograde": false,
+          "speed": 0.21024
+        },
+        "saturn": {
+          "longitude": 13.697,
+          "sign": "Aries",
+          "degree": 13.697,
+          "retrograde": true,
+          "speed": -0.05591
+        },
+        "uranus": {
+          "longitude": 65.6534,
+          "sign": "Gemini",
+          "degree": 5.6534,
+          "retrograde": false,
+          "speed": 0.00857
+        },
+        "neptune": {
+          "longitude": 3.6731,
+          "sign": "Aries",
+          "degree": 3.6731,
+          "retrograde": true,
+          "speed": -0.02436
+        },
+        "pluto": {
+          "longitude": 303.5171,
+          "sign": "Aquarius",
+          "degree": 3.5171,
+          "retrograde": true,
+          "speed": -0.01828
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.06
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.49
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.06
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 1.49
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.98
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.14
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.66
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.84
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.9
+        }
+      ]
+    },
+    {
+      "hour": 18,
+      "datetime": "2026-08-31T18:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.3515,
+          "sign": "Virgo",
+          "degree": 8.3515,
+          "retrograde": false,
+          "speed": 0.967
+        },
+        "moon": {
+          "longitude": 22.0188,
+          "sign": "Aries",
+          "degree": 22.0188,
+          "retrograde": false,
+          "speed": 13.60145
+        },
+        "mercury": {
+          "longitude": 162.2298,
+          "sign": "Virgo",
+          "degree": 12.2298,
+          "retrograde": false,
+          "speed": 1.88849
+        },
+        "venus": {
+          "longitude": 202.9719,
+          "sign": "Libra",
+          "degree": 22.9719,
+          "retrograde": false,
+          "speed": 0.80114
+        },
+        "mars": {
+          "longitude": 103.235,
+          "sign": "Cancer",
+          "degree": 13.235,
+          "retrograde": false,
+          "speed": 0.63464
+        },
+        "jupiter": {
+          "longitude": 133.6472,
+          "sign": "Leo",
+          "degree": 13.6472,
+          "retrograde": false,
+          "speed": 0.21021
+        },
+        "saturn": {
+          "longitude": 13.6947,
+          "sign": "Aries",
+          "degree": 13.6947,
+          "retrograde": true,
+          "speed": -0.05596
+        },
+        "uranus": {
+          "longitude": 65.6537,
+          "sign": "Gemini",
+          "degree": 5.6537,
+          "retrograde": false,
+          "speed": 0.00853
+        },
+        "neptune": {
+          "longitude": 3.6721,
+          "sign": "Aries",
+          "degree": 3.6721,
+          "retrograde": true,
+          "speed": -0.02437
+        },
+        "pluto": {
+          "longitude": 303.5163,
+          "sign": "Aquarius",
+          "degree": 3.5163,
+          "retrograde": true,
+          "speed": -0.01827
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.05
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.46
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 0.95
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.01
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.98
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.14
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.7
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.88
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.88
+        }
+      ]
+    },
+    {
+      "hour": 19,
+      "datetime": "2026-08-31T19:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.3918,
+          "sign": "Virgo",
+          "degree": 8.3918,
+          "retrograde": false,
+          "speed": 0.96702
+        },
+        "moon": {
+          "longitude": 22.5857,
+          "sign": "Aries",
+          "degree": 22.5857,
+          "retrograde": false,
+          "speed": 13.61007
+        },
+        "mercury": {
+          "longitude": 162.3085,
+          "sign": "Virgo",
+          "degree": 12.3085,
+          "retrograde": false,
+          "speed": 1.88767
+        },
+        "venus": {
+          "longitude": 203.0053,
+          "sign": "Libra",
+          "degree": 23.0053,
+          "retrograde": false,
+          "speed": 0.80062
+        },
+        "mars": {
+          "longitude": 103.2614,
+          "sign": "Cancer",
+          "degree": 13.2614,
+          "retrograde": false,
+          "speed": 0.63458
+        },
+        "jupiter": {
+          "longitude": 133.6559,
+          "sign": "Leo",
+          "degree": 13.6559,
+          "retrograde": false,
+          "speed": 0.21018
+        },
+        "saturn": {
+          "longitude": 13.6924,
+          "sign": "Aries",
+          "degree": 13.6924,
+          "retrograde": true,
+          "speed": -0.05601
+        },
+        "uranus": {
+          "longitude": 65.6541,
+          "sign": "Gemini",
+          "degree": 5.6541,
+          "retrograde": false,
+          "speed": 0.0085
+        },
+        "neptune": {
+          "longitude": 3.6711,
+          "sign": "Aries",
+          "degree": 3.6711,
+          "retrograde": true,
+          "speed": -0.02438
+        },
+        "pluto": {
+          "longitude": 303.5155,
+          "sign": "Aquarius",
+          "degree": 3.5155,
+          "retrograde": true,
+          "speed": -0.01826
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.04
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 0.42
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.43
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.95
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.98
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.14
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.74
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.92
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.87
+        }
+      ]
+    },
+    {
+      "hour": 20,
+      "datetime": "2026-08-31T20:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Moon opposes Venus, highlighting polarity, projection, and the need for balance.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.4321,
+          "sign": "Virgo",
+          "degree": 8.4321,
+          "retrograde": false,
+          "speed": 0.96704
+        },
+        "moon": {
+          "longitude": 23.153,
+          "sign": "Aries",
+          "degree": 23.153,
+          "retrograde": false,
+          "speed": 13.61866
+        },
+        "mercury": {
+          "longitude": 162.3871,
+          "sign": "Virgo",
+          "degree": 12.3871,
+          "retrograde": false,
+          "speed": 1.88686
+        },
+        "venus": {
+          "longitude": 203.0386,
+          "sign": "Libra",
+          "degree": 23.0386,
+          "retrograde": false,
+          "speed": 0.80009
+        },
+        "mars": {
+          "longitude": 103.2879,
+          "sign": "Cancer",
+          "degree": 13.2879,
+          "retrograde": false,
+          "speed": 0.63452
+        },
+        "jupiter": {
+          "longitude": 133.6647,
+          "sign": "Leo",
+          "degree": 13.6647,
+          "retrograde": false,
+          "speed": 0.21016
+        },
+        "saturn": {
+          "longitude": 13.69,
+          "sign": "Aries",
+          "degree": 13.69,
+          "retrograde": true,
+          "speed": -0.05606
+        },
+        "uranus": {
+          "longitude": 65.6544,
+          "sign": "Gemini",
+          "degree": 5.6544,
+          "retrograde": false,
+          "speed": 0.00846
+        },
+        "neptune": {
+          "longitude": 3.67,
+          "sign": "Aries",
+          "degree": 3.67,
+          "retrograde": true,
+          "speed": -0.02439
+        },
+        "pluto": {
+          "longitude": 303.5148,
+          "sign": "Aquarius",
+          "degree": 3.5148,
+          "retrograde": true,
+          "speed": -0.01825
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.03
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 0.11
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.16
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.4
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.9
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.98
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.14
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.78
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.96
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.86
+        }
+      ]
+    },
+    {
+      "hour": 21,
+      "datetime": "2026-08-31T21:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.4724,
+          "sign": "Virgo",
+          "degree": 8.4724,
+          "retrograde": false,
+          "speed": 0.96706
+        },
+        "moon": {
+          "longitude": 23.7206,
+          "sign": "Aries",
+          "degree": 23.7206,
+          "retrograde": false,
+          "speed": 13.62721
+        },
+        "mercury": {
+          "longitude": 162.4657,
+          "sign": "Virgo",
+          "degree": 12.4657,
+          "retrograde": false,
+          "speed": 1.88604
+        },
+        "venus": {
+          "longitude": 203.072,
+          "sign": "Libra",
+          "degree": 23.072,
+          "retrograde": false,
+          "speed": 0.79956
+        },
+        "mars": {
+          "longitude": 103.3143,
+          "sign": "Cancer",
+          "degree": 13.3143,
+          "retrograde": false,
+          "speed": 0.63446
+        },
+        "jupiter": {
+          "longitude": 133.6734,
+          "sign": "Leo",
+          "degree": 13.6734,
+          "retrograde": false,
+          "speed": 0.21013
+        },
+        "saturn": {
+          "longitude": 13.6877,
+          "sign": "Aries",
+          "degree": 13.6877,
+          "retrograde": true,
+          "speed": -0.05611
+        },
+        "uranus": {
+          "longitude": 65.6548,
+          "sign": "Gemini",
+          "degree": 5.6548,
+          "retrograde": false,
+          "speed": 0.00843
+        },
+        "neptune": {
+          "longitude": 3.669,
+          "sign": "Aries",
+          "degree": 3.669,
+          "retrograde": true,
+          "speed": -0.0244
+        },
+        "pluto": {
+          "longitude": 303.514,
+          "sign": "Aquarius",
+          "degree": 3.514,
+          "retrograde": true,
+          "speed": -0.01824
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.01
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.15
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.37
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 0.65
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.85
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.99
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.14
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.82
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 3.99
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.84
+        }
+      ]
+    },
+    {
+      "hour": 22,
+      "datetime": "2026-08-31T22:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.5127,
+          "sign": "Virgo",
+          "degree": 8.5127,
+          "retrograde": false,
+          "speed": 0.96708
+        },
+        "moon": {
+          "longitude": 24.2886,
+          "sign": "Aries",
+          "degree": 24.2886,
+          "retrograde": false,
+          "speed": 13.63572
+        },
+        "mercury": {
+          "longitude": 162.5443,
+          "sign": "Virgo",
+          "degree": 12.5443,
+          "retrograde": false,
+          "speed": 1.88522
+        },
+        "venus": {
+          "longitude": 203.1053,
+          "sign": "Libra",
+          "degree": 23.1053,
+          "retrograde": false,
+          "speed": 0.79904
+        },
+        "mars": {
+          "longitude": 103.3407,
+          "sign": "Cancer",
+          "degree": 13.3407,
+          "retrograde": false,
+          "speed": 0.6344
+        },
+        "jupiter": {
+          "longitude": 133.6822,
+          "sign": "Leo",
+          "degree": 13.6822,
+          "retrograde": false,
+          "speed": 0.2101
+        },
+        "saturn": {
+          "longitude": 13.6854,
+          "sign": "Aries",
+          "degree": 13.6854,
+          "retrograde": true,
+          "speed": -0.05616
+        },
+        "uranus": {
+          "longitude": 65.6551,
+          "sign": "Gemini",
+          "degree": 5.6551,
+          "retrograde": false,
+          "speed": 0.0084
+        },
+        "neptune": {
+          "longitude": 3.668,
+          "sign": "Aries",
+          "degree": 3.668,
+          "retrograde": true,
+          "speed": -0.02441
+        },
+        "pluto": {
+          "longitude": 303.5133,
+          "sign": "Aquarius",
+          "degree": 3.5133,
+          "retrograde": true,
+          "speed": -0.01822
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.0
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.15
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.34
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.8
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 1.18
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.99
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.14
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.86
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 4.03
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.83
+        }
+      ]
+    },
+    {
+      "hour": 23,
+      "datetime": "2026-08-31T23:00:00Z",
+      "headline": "Jupiter trines Saturn",
+      "summary": "The Waning Gibbous Moon supports integration, sharing what was learned, and adjusting expectations. The Moon in Aries gives the hour a direct, active, fast-moving tone. Saturn is retrograde, emphasizing review around responsibility, limits, discipline, and commitments. Neptune is retrograde, clarifying dreams, ideals, illusions, and spiritual sensitivity. Pluto is retrograde, intensifying inner work around power, release, and transformation. Jupiter trines Saturn, creating ease, flow, and natural support between their themes. Neptune forms a sextile with Pluto, opening cooperative opportunities with light effort.",
+      "moon_phase": "Waning Gibbous",
+      "moon_sign": "Aries",
+      "flags": {
+        "mercury_retrograde": false,
+        "venus_retrograde": false,
+        "mars_retrograde": false,
+        "jupiter_retrograde": false,
+        "saturn_retrograde": true,
+        "uranus_retrograde": false,
+        "neptune_retrograde": true,
+        "pluto_retrograde": true,
+        "full_moon": false,
+        "new_moon": false
+      },
+      "planets": {
+        "sun": {
+          "longitude": 158.553,
+          "sign": "Virgo",
+          "degree": 8.553,
+          "retrograde": false,
+          "speed": 0.9671
+        },
+        "moon": {
+          "longitude": 24.8569,
+          "sign": "Aries",
+          "degree": 24.8569,
+          "retrograde": false,
+          "speed": 13.6442
+        },
+        "mercury": {
+          "longitude": 162.6228,
+          "sign": "Virgo",
+          "degree": 12.6228,
+          "retrograde": false,
+          "speed": 1.8844
+        },
+        "venus": {
+          "longitude": 203.1385,
+          "sign": "Libra",
+          "degree": 23.1385,
+          "retrograde": false,
+          "speed": 0.79851
+        },
+        "mars": {
+          "longitude": 103.3672,
+          "sign": "Cancer",
+          "degree": 13.3672,
+          "retrograde": false,
+          "speed": 0.63434
+        },
+        "jupiter": {
+          "longitude": 133.6909,
+          "sign": "Leo",
+          "degree": 13.6909,
+          "retrograde": false,
+          "speed": 0.21007
+        },
+        "saturn": {
+          "longitude": 13.683,
+          "sign": "Aries",
+          "degree": 13.683,
+          "retrograde": true,
+          "speed": -0.05622
+        },
+        "uranus": {
+          "longitude": 65.6555,
+          "sign": "Gemini",
+          "degree": 5.6555,
+          "retrograde": false,
+          "speed": 0.00836
+        },
+        "neptune": {
+          "longitude": 3.667,
+          "sign": "Aries",
+          "degree": 3.667,
+          "retrograde": true,
+          "speed": -0.02442
+        },
+        "pluto": {
+          "longitude": 303.5125,
+          "sign": "Aquarius",
+          "degree": 3.5125,
+          "retrograde": true,
+          "speed": -0.01821
+        }
+      },
+      "aspects": [
+        {
+          "planet_a": "jupiter",
+          "planet_b": "saturn",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 0.01
+        },
+        {
+          "planet_a": "neptune",
+          "planet_b": "pluto",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.15
+        },
+        {
+          "planet_a": "mars",
+          "planet_b": "saturn",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 0.32
+        },
+        {
+          "planet_a": "mercury",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 0.74
+        },
+        {
+          "planet_a": "moon",
+          "planet_b": "venus",
+          "aspect": "opposition",
+          "exact_angle": 180,
+          "orb": 1.72
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "neptune",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 1.99
+        },
+        {
+          "planet_a": "uranus",
+          "planet_b": "pluto",
+          "aspect": "trine",
+          "exact_angle": 120,
+          "orb": 2.14
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "uranus",
+          "aspect": "square",
+          "exact_angle": 90,
+          "orb": 2.9
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mercury",
+          "aspect": "conjunction",
+          "exact_angle": 0,
+          "orb": 4.07
+        },
+        {
+          "planet_a": "sun",
+          "planet_b": "mars",
+          "aspect": "sextile",
+          "exact_angle": 60,
+          "orb": 4.81
+        }
+      ]
+    }
+  ]
+}
